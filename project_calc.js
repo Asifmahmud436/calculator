@@ -86,7 +86,7 @@ for(let i=0;i<digitbtn.length;i++){
             else if(digitbtn[i].innerText=='AC'){
                 inp1 = null;
                 inp2 = null;
-                displayValueContainer.innerText = 'You Violated me!';
+                displayValueContainer.innerText = 'Touch Me,Babe!';
 
             }
             else if(digitbtn[i].innerText=='C'){
