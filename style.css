@@ -1,0 +1,68 @@
+body{
+    margin-left: 550px;
+    margin-top: 30px;
+    margin-right: 550px;
+    font-size: 24px;
+}
+#container{
+    /* display: flex; */
+    /* margin: 800px; */
+    border: 2px solid black;
+    border-radius: 20px;
+    height: 550px;
+    width:  315px;
+    /* padding-top: 20px; */
+    padding-right: 60px;
+    padding-bottom: 50px;
+    padding-top: 40px;
+    padding-left: 25px;
+    /* margin-left: 0px; */
+    background-color: black;
+    
+}
+.display{
+    margin-left: 40px;
+    font-size: 32px;
+    color: rgb(88, 60, 5);
+    background-color: orange;
+    /* padding-left: 160px; */
+    width: 260px;
+    /* padding-right: 10px; */
+    padding-top: 22px;
+    padding-bottom: 6px;
+    padding-right: 10px;
+    border-radius: 4px;
+    text-align: right;
+    font-weight: 900;
+}
+ul{
+    display: flex;
+    /* text-decoration: none; */
+    list-style: none;
+    justify-content: center;
+}
+li{
+    border: 2px solid black;
+    border-radius: 14px;
+    /* padding: 8px; */
+    height: 50px;
+    width: 60px;
+    text-align: center;
+    margin: 4px;
+    padding-top: 10px;
+    /* text-decoration: none; */
+    background-color: antiquewhite;
+    font-weight: 600;
+}
+.ac,.c{
+    background-color: blueviolet;
+}
+
+.zero{
+    /* background-color: white; */
+    padding-left: 140px;
+    font-size: 35px;
+}
+.autism{
+    background-color: brown;
+}
